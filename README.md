@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
+<br />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
