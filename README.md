@@ -1,10 +1,10 @@
 <div align="center">
     <h3><b>Hi 👋, I'm Yeeun Kim.</b></h3>
-    I’m a backend developer who values collaboration and enjoys solving problems.
+    I’m a product manager and backend developer who values collaboration and enjoys solving problems.
     <br><br>
 
 <small>
-        - Email: <a href="mailto:ljhkys6874@naver.com">ljhkys6874@naver.com</a>  
+        - Email: <a href="mailto:yeun4616@daum.net">yeun4616@daum.net</a>  
         <br>
         - Blog: <a href="https://aeongiii.tistory.com/" target="_blank">aeongiii.tistory.com</a>
 </small>
@@ -37,21 +37,4 @@
 
 </div>
 
----
 
-<div align="center">
-    <h3><b>🏅 Stats</b></h3>
-</div>
-
-<div align="center">
-    <span>
-        <a href="https://solved.ac/ljhkys6874/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljhkys6874" height="150px"/>
-        </a>
-    </span>
-    <span style="margin-left: 15px;">
-        <a href="https://github.com/aeongiii">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeongiii&layout=compact&theme=nord&hide_border=true" height="150px"/>
-        </a>
-    </span>
-</div>
