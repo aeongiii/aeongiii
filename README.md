@@ -1,6 +1,6 @@
 <div align="center">
     <h3><b>Hi 👋, I'm Yeeun Kim.</b></h3>
-    I’m a product manager and backend developer who values collaboration and enjoys solving problems.
+    I’m a product manager who values collaboration and enjoys solving problems.
     <br><br>
 
 <small>
